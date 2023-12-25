@@ -1,16 +1,30 @@
+a = 10
+b = 25
+
+addition = a + b
+
+print(addition)
+
+print(f"The sum of {a} and {b} is {addition}")
+
+
+
+
+
+
 # Declaring integer variables
 a = 10
 b = 25
 
 # Performing arithmetic operations
-add = a + b
-sub = a - b
-multiply = a * b
+addition = a + b
+subraction = a - b
+multiplication = a * b
 
 # Printing the results
-print(f"The sum of {a} and {b} is {add}.")
+print(f"The sum of {a} and {b} is {addition}.")
 
-print(f"The difference between {a} and {b} is {sub}.")
+print(f"The difference between {a} and {b} is {subraction}.")
 
-print(f"The product of {a} and {b} is {multiply}.")
+print(f"The product of {a} and {b} is {multiplication}.")
 
